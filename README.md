@@ -25,6 +25,11 @@
 </details>
 
 ---
+### 
+
+[Idea-Bank](https://gio-hernandez-saito.github.io/zerovoids-idea-bank/)
+[Design-Patterns](https://gio-hernandez-saito.github.io/design-patterns/)
+---
 
 ### 주요 프로젝트
 
