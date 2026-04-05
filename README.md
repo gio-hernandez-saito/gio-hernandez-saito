@@ -27,9 +27,9 @@
 ---
 ### 
 
-[Idea-Bank](https://gio-hernandez-saito.github.io/zerovoids-idea-bank/)
+- [Idea-Bank](https://gio-hernandez-saito.github.io/zerovoids-idea-bank/)
 
-[Design-Patterns](https://gio-hernandez-saito.github.io/design-patterns/)
+- [Design-Patterns](https://gio-hernandez-saito.github.io/design-patterns/)
 
 ---
 
