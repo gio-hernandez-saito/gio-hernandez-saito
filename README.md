@@ -41,8 +41,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gio-hernandez-saito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gio-hernandez-saito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gio-hernandez-saito&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gio-hernandez-saito&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
