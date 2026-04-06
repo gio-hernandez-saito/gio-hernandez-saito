@@ -18,7 +18,7 @@
 | **언어**      | `TypeScript` `JavaScript` `Python`                |
 | **상태관리**    | `Zustand` `Pinia` `Tanstack Query`                |
 | **아키텍처**    | `Feature-Sliced Design` `Monorepo (Turborepo)`    |
-| **DX & 빌드** | `Storybook` `Biome` `Changeset` `pnpm`            |
+| **DX & 빌드** | `Storybook` `Biome` `Eslint` `Prettier` `Changeset` `pnpm` `Nx`          |
 | **CI/CD**   | `GitHub Actions` `GitLab CI/CD` `Fingerprint OTA` |
 | **시각화**     | `D3` `TopoJSON`                                   |
 
