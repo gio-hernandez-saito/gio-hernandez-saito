@@ -25,7 +25,7 @@
 </details>
 
 ---
-### 
+### Toys
 
 - [Idea-Bank](https://gio-hernandez-saito.github.io/zerovoids-idea-bank/)
 
