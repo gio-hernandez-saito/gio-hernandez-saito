@@ -27,7 +27,7 @@
 ---
 ### Toys
 
-- [zerovoids](zerovoids.art)
+- [zerovoids](https://zerovoids.art)
 
 ---
 
