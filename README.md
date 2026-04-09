@@ -27,9 +27,7 @@
 ---
 ### Toys
 
-- [Idea-Bank](https://gio-hernandez-saito.github.io/zerovoids-idea-bank/)
-
-- [Design-Patterns](https://gio-hernandez-saito.github.io/design-patterns/)
+- [zerovoids](zerovoids.art)
 
 ---
 
