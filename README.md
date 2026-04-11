@@ -12,15 +12,20 @@
 <summary><b>기술 스택</b></summary>
 <br/>
 
-| 분류          | 스택                                                |
-|-------------|---------------------------------------------------|
-| **프론트엔드**   | `React` `Next.js` `Vue3` `React Native (Expo)`    |
-| **언어**      | `TypeScript` `JavaScript` `Python`                |
-| **상태관리**    | `Zustand` `Pinia` `Tanstack Query`                |
-| **아키텍처**    | `Feature-Sliced Design` `Monorepo (Turborepo)`    |
-| **DX & 빌드** | `Storybook` `Biome` `Eslint` `Prettier` `Changeset` `pnpm` `Nx`          |
-| **CI/CD**   | `GitHub Actions` `GitLab CI/CD` `Fingerprint OTA` |
-| **시각화**     | `D3` `TopoJSON`                                   |
+| 분류              | 스택                                                                                |
+|-----------------|-----------------------------------------------------------------------------------|
+| **프론트엔드**       | `React` `Next.js` `Vue3` `React Native (Expo)`                                    |
+| **언어**          | `TypeScript` `JavaScript` `Python`                                                |
+| **상태/데이터**      | `Zustand` `Pinia` `TanStack Query`                                                |
+| **스타일링**        | `UnoCSS` `Tailwind CSS`                                                           |
+| **UI Kit**      | `shadcn/ui` `Base UI`                                                             |
+| **Validation**  | `Zod`                                                                             |
+| **아키텍처**        | `Feature-Sliced Design` `Monorepo`                                                |
+| **DX & 빌드**     | `pnpm` `Turborepo` `Nx` `Biome` `ESLint` `Prettier` `Husky` `Commitlint` `Changesets` |
+| **CI/CD**       | `GitHub Actions` `GitLab CI/CD`                                                   |
+| **배포**          | `Expo EAS (Fingerprint 기반 OTA)`                                                   |
+| **시각화**         | `D3` `TopoJSON`                                                                   |
+
 
 </details>
 
