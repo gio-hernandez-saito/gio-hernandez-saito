@@ -45,6 +45,7 @@
 | **Public** | [zerovoids-idea-bank](https://github.com/gio-hernandez-saito/zerovoids-idea-bank) | 아이디어 저장소                                                         |
 | **Public** | [design-patterns](https://github.com/gio-hernandez-saito/design-patterns)         | TypeScript 디자인 패턴 구현                                             |
 | **Public** | [zerovoids-utils](https://github.com/gio-hernandez-saito/zerovoids-utils)         | 재사용 가능한 TypeScript 유틸리티 라이브러리                                    |
+| **Public** | [zerovoids-http](https://github.com/gio-hernandez-saito/zerovoids-http)         | 여러 API를 하나처럼 쓰게 해주는 타입 안전 HTTP 클라이언트      |
 | *Private*  | d3-viz                                                                            | D3.js 기반 선언적 시각화 라이브러리 (core/types 패키지 구조)                       |
 | *Private*  | zv-baseball                                                                       | 야구 데이터 수집·분석·시각화 풀스택 모노레포 (Python + Web/Mobile)                  |
 
