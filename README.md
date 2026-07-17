@@ -22,7 +22,7 @@
 <td width="50%" valign="top">
 
 #### [`zerovoids.dev`](https://zerovoids.dev)
-개발의 기록 — 제작기 · 작업물 · 생각
+개발의 기록<br/>제작기 · 작업물 · 생각
 
 [![zerovoids.dev](https://img.shields.io/badge/zerovoids.dev-visit-E9A23C?style=for-the-badge&labelColor=13110d)](https://zerovoids.dev)
 
@@ -30,7 +30,7 @@
 <td width="50%" valign="top">
 
 #### [`zerovoids.art`](https://zerovoids.art)
-감상의 기록 — 영화 · 음악 · 책
+감상의 기록<br/>영화 · 음악 · 책
 
 [![zerovoids.art](https://img.shields.io/badge/zerovoids.art-visit-9683E0?style=for-the-badge&labelColor=13110d)](https://zerovoids.art)
 
